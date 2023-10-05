@@ -1,5 +1,9 @@
 # Deploy-Spring-Webapp
 
+Pipeline Architecture:
+---------------------
+![build-sonarqube](https://github.com/danjelhysenaj-dev/Deploy-Spring-Webapp/assets/72606127/92a9c903-2fb7-42a1-a70e-b275ab28e6ec)
+
 Docker Installation:
 ---------------------
 ```
